@@ -9,6 +9,6 @@ class StudentTest {
     @Test
     void getName() {
         String name = "reza";
-        assert(name).equals("rez");
+        assert(name).equals("reza");
     }
 }
